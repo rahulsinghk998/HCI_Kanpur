@@ -1,0 +1,1 @@
+ -LD:/IIT/Extra-Acads/HCI/community-sdk-master_2/community-sdk-master/lib/win32  -ledk -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
